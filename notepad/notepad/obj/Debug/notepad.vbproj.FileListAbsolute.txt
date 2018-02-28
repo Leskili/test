@@ -1,0 +1,12 @@
+C:\Users\student\AppData\Local\Temporary Projects\notepad\bin\Debug\notepad.exe.config
+C:\Users\student\AppData\Local\Temporary Projects\notepad\bin\Debug\notepad.exe
+C:\Users\student\AppData\Local\Temporary Projects\notepad\bin\Debug\notepad.pdb
+C:\Users\student\AppData\Local\Temporary Projects\notepad\bin\Debug\notepad.xml
+C:\Users\student\AppData\Local\Temporary Projects\notepad\obj\Debug\notepad.vbprojResolveAssemblyReference.cache
+C:\Users\student\AppData\Local\Temporary Projects\notepad\obj\Debug\notepad.Form1.resources
+C:\Users\student\AppData\Local\Temporary Projects\notepad\obj\Debug\notepad.Resources.resources
+C:\Users\student\AppData\Local\Temporary Projects\notepad\obj\Debug\notepad.vbproj.GenerateResource.Cache
+C:\Users\student\AppData\Local\Temporary Projects\notepad\obj\Debug\notepad.vbproj.CoreCompileInputs.cache
+C:\Users\student\AppData\Local\Temporary Projects\notepad\obj\Debug\notepad.exe
+C:\Users\student\AppData\Local\Temporary Projects\notepad\obj\Debug\notepad.xml
+C:\Users\student\AppData\Local\Temporary Projects\notepad\obj\Debug\notepad.pdb
